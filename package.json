@@ -1,5 +1,5 @@
 {
-  "name": "my-react-app",
+  "name": "rest-country",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,17 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.4.2",
-    "@fortawesome/free-solid-svg-icons": "^6.4.2",
-    "@fortawesome/react-fontawesome": "^0.2.0",
-    "animate.css": "^4.1.1",
-    "aos": "^2.3.4",
-    "bootstrap": "^5.3.1",
-    "firebase": "^10.1.0",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.8.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.15.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
